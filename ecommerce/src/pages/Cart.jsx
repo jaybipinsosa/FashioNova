@@ -11,7 +11,7 @@ import { userRequest } from "../requestMethods";
 import { useNavigate } from "react-router";
 
 //  const KEY = process.env.REACT_APP_STRIPE;
-const KEY = "pk_test_51Lr3RuSD0hEm67ofBGDAVusfuubJ17IRfbSWwQopOLTzQcxJ4rDi2dP4jxiFEuouReWASmCQ2dLRcAEpxljz0Sc400hHPGBWGr"
+const KEY = "Enter your key here"
 
 require("dotenv").config();
 const Container = styled.div``;
